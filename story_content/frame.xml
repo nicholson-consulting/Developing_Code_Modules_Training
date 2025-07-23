@@ -1590,7 +1590,7 @@
             <slidelink slideid="_player.6fSkYrqG61O.64dLIE8yQ6I" displaytext="Key things in Commissioning" expand="false" type="slide" />
             <slidelink slideid="_player.6fSkYrqG61O.6qWVBqFMCBj" displaytext="The Commissioning Process" expand="false" type="slide" />
             <slidelink slideid="_player.6fSkYrqG61O.5beUkGuxNuz" displaytext="Commissioning Document" expand="false" type="slide" />
-            <slidelink slideid="_player.6fSkYrqG61O.6Zsz3ejPDUa" displaytext="ACTIVITY: Creating a Commissioning Document" expand="true" type="slide">
+            <slidelink slideid="_player.6fSkYrqG61O.6Zsz3ejPDUa" displaytext="ACTIVITY: Creating a Commissioning Document" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6fSkYrqG61O.6KTzx3rslX6" displaytext="ACTIVITY: Creating a Commissioning Document" expand="false" type="slide" />
               </links>
@@ -1608,19 +1608,19 @@
             <slidelink slideid="_player.6hBgnwPo1WO.5g3JVtj1HC0" displaytext="Setting up the ED Visits Module Folder" expand="false" type="slide" />
             <slidelink slideid="_player.6hBgnwPo1WO.6EfqF7OS3BK" displaytext="ACTIVITY: Instructions to setup the folder" expand="false" type="slide" />
             <slidelink slideid="_player.6hBgnwPo1WO.6qkQFp73BkY" displaytext="Writing the Header" expand="false" type="slide" />
-            <slidelink slideid="_player.6hBgnwPo1WO.5v3WbbLO78t" displaytext="ACTIVITY: Writing the Header" expand="true" type="slide">
+            <slidelink slideid="_player.6hBgnwPo1WO.5v3WbbLO78t" displaytext="ACTIVITY: Writing the Header" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6hBgnwPo1WO.5WgxNLevlH7" displaytext="ACTIVITY: Writing the Header" expand="false" type="slide" />
               </links>
             </slidelink>
             <slidelink slideid="_player.6hBgnwPo1WO.60QDFdnYsFK" displaytext="Writing the Code &amp;amp; Parameters" expand="false" type="slide" />
-            <slidelink slideid="_player.6hBgnwPo1WO.6JctMxBnCl2" displaytext="ACTIVITY: Using Parameters" expand="true" type="slide">
+            <slidelink slideid="_player.6hBgnwPo1WO.6JctMxBnCl2" displaytext="ACTIVITY: Using Parameters" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6hBgnwPo1WO.6JY2Xe1h4C3" displaytext="ACTIVITY: Using Parameters" expand="false" type="slide" />
               </links>
             </slidelink>
             <slidelink slideid="_player.6hBgnwPo1WO.5vlERCH9Rso" displaytext="Initial Testing" expand="false" type="slide" />
-            <slidelink slideid="_player.6hBgnwPo1WO.6SIqBAsSYaW" displaytext="ACTIVITY: Initial Testing" expand="true" type="slide">
+            <slidelink slideid="_player.6hBgnwPo1WO.6SIqBAsSYaW" displaytext="ACTIVITY: Initial Testing" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6hBgnwPo1WO.5pkjlBi1nPZ" displaytext="ACTIVITY: Initial testing" expand="false" type="slide" />
               </links>
@@ -1628,15 +1628,15 @@
             <slidelink slideid="_player.6hBgnwPo1WO.5v7V8pG6b4l" displaytext="Entities" expand="false" type="slide" />
             <slidelink slideid="_player.6hBgnwPo1WO.5YacmAaE76I" displaytext="Entities in Modules" expand="false" type="slide" />
             <slidelink slideid="_player.6hBgnwPo1WO.6gm1mAGKRG8" displaytext="Highest Qualification Module Example" expand="false" type="slide" />
-            <slidelink slideid="_player.6hBgnwPo1WO.60AbCr5gT9h" displaytext="ACTIVITY: Looking at Testing" expand="true" type="slide">
+            <slidelink slideid="_player.6hBgnwPo1WO.60AbCr5gT9h" displaytext="ACTIVITY: Looking at Testing" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6hBgnwPo1WO.5qSPVkUxjeS" displaytext="ACTIVITY: Incorporating Entity Counts into Your ED Visits Module" expand="false" type="slide" />
               </links>
             </slidelink>
             <slidelink slideid="_player.6hBgnwPo1WO.5uaZdHrks8c" displaytext="Testing Modules" expand="false" type="slide" />
-            <slidelink slideid="_player.6hBgnwPo1WO.6XAQorTeJDy" displaytext="ACTIVITY: Looking at Testing" expand="true" type="slide">
+            <slidelink slideid="_player.6hBgnwPo1WO.6XAQorTeJDy" displaytext="ACTIVITY: Looking at Testing" expand="false" type="slide">
               <links>
-                <slidelink slideid="_player.6hBgnwPo1WO.6jKSN8Yt8Q0" displaytext="ACTIVITY: Link to School Attendance Module" expand="true" type="slide" />
+                <slidelink slideid="_player.6hBgnwPo1WO.6jKSN8Yt8Q0" displaytext="ACTIVITY: Link to School Attendance Module" expand="false" type="slide" />
                 <slidelink slideid="_player.6hBgnwPo1WO.6XdYab2u5jk" displaytext="ACTIVITY: School Attendance Quiz Start" expand="false" type="slide" />
                 <slidelink slideid="_player.6hBgnwPo1WO.6amo0S5Pcvh" displaytext="Draw from Attendance module quiz" expand="false" type="slide" />
                 <slidelink slideid="_player.6hBgnwPo1WO.5iZqnndg5XP" displaytext="ACTIVITY: Creating a testing spreadsheet" expand="false" type="slide" />
@@ -1652,8 +1652,8 @@
             <slidelink slideid="_player.6PQjNPWPSsC.6Bg6svpbZu3" displaytext="Module Development Process" expand="false" type="slide" />
             <slidelink slideid="_player.6PQjNPWPSsC.5eeazGEWIHB" displaytext="The De Boer process has three steps" expand="false" type="slide" />
             <slidelink slideid="_player.6PQjNPWPSsC.6HKqHI6qgOe" displaytext="Steps for Tagging Code" expand="false" type="slide" />
-            <slidelink slideid="_player.6PQjNPWPSsC.5onvbGrgHFQ" displaytext="Steps for Tagging Code" expand="true" type="slide" />
-            <slidelink slideid="_player.6PQjNPWPSsC.5rZo7sjUenA" displaytext="ACTIVITY: Tagging your ED_Visits Code" expand="true" type="slide">
+            <slidelink slideid="_player.6PQjNPWPSsC.5onvbGrgHFQ" displaytext="Steps for Tagging Code" expand="false" type="slide" />
+            <slidelink slideid="_player.6PQjNPWPSsC.5rZo7sjUenA" displaytext="ACTIVITY: Tagging your ED_Visits Code" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6PQjNPWPSsC.6K7jgscqdDx" displaytext="Activity Instructions" expand="false" type="slide" />
               </links>
@@ -1676,10 +1676,10 @@
           <links>
             <slidelink slideid="_player.5aQBIH8Y7hS.6fANiYxzZG9" displaytext="QUIZ: End of Course Knowledge Check" expand="true" type="slide">
               <links>
-                <slidelink slideid="_player.5aQBIH8Y7hS.6oU9VYM87u5" displaytext="End of course quiz questions" expand="false" type="slide" />
+                <slidelink slideid="_player.5aQBIH8Y7hS.6oU9VYM87u5" displaytext="End of course quiz" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.5aQBIH8Y7hS.655ivWrmhuY" displaytext="Thank you for completing this course “Developing and Wrap Up" expand="false" type="slide" />
+            <slidelink slideid="_player.5aQBIH8Y7hS.5iNkpn730a6" displaytext="Thank you for completing this course “Developing and Wrap Up" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
